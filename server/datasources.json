@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 0,
+    "url": "",
+    "database": "password-vault",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
