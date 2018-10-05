@@ -21,6 +21,12 @@
       "permission": "ALLOW",
       "principalType": "ROLE",
       "principalId": "$authenticated"
+    },
+    {
+      "accessType": "WRITE",
+      "permission": "ALLOW",
+      "principalType": "ROLE",
+      "principalId": "$authenticated"
     }
   ],
   "methods": {}
