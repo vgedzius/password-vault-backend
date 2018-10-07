@@ -39,5 +39,9 @@
   "Account": {
     "dataSource": "db",
     "public": true
+  },
+  "Password": {
+    "dataSource": "db",
+    "public": true
   }
 }
